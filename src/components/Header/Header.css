@@ -1,0 +1,39 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    height: 90px;
+    border-radius: 60%;
+}
+
+.pic-name {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pic {
+    margin: 20px 15px;
+    display: inline-block;
+}
+
+.nameInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.linkInfo {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+.marginLine {
+    background-color: black;
+    height: 2px;
+    margin: 0 12px;
+    border-radius: 30px;
+}
