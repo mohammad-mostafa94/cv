@@ -19,9 +19,9 @@ const Header = () => {
                 </div>
                 <div className="linkInfo">
                     <div className="links">
-                        <h4>Email:<a href='#'>gmshakilcse@gmail.com</a></h4>
+                        <h4>Email:<a href='mailto:gmshakilcse@gmail.com'>gmshakilcse@gmail.com</a></h4>
                         <h4>Location: <a href='#'>Dhaka,Bangladesh.</a></h4>
-                        <h4>Mobile:<a href='#'>+8801521320291</a></h4>
+                        <h4>Mobile:<a href='tel:+8801521320291'>+8801521320291</a></h4>
                     </div>
                 </div>
             </div>

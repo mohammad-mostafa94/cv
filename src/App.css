@@ -8,7 +8,14 @@
   background-color: #E1F3F3;
   margin: 0px 200px;
 }
+a{
+  text-decoration: none;
+}
 
+a:hover{
+  text-decoration: underline;
+  color:tomato;
+}
 /* .mainClass{
   background-color:hotpink;
 } */
